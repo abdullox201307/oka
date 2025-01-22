@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border-radius: 40px;
+background-color: rgb(52, 60, 86);
+}
+.header{
+    padding-top: 46px;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.item{
+    width: 200px;
+    border-radius: 30px;
+background-color: #ff0101;
+text-align: center;
+padding: 14px;
+}
+.link{
+    color: #ffffff;
+font-family: "Inter";
+font-size: 12px;
+font-weight: 700;r
+line-height: 15px;
+text-decoration: none;
+}
+.hero{
+    padding-top: 68px;
+}
+.wrapper{
+    display: flex;
+    justify-content:space-around;
+}
+.ismoil{
+    
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+   
+}
+.aaaa{
+    display: flex;
+    width: 264px;
+    height: 118px;
+    border-radius: 40px;
+    background-color: #000000;
+    padding: 41px;
+    justify-content: center;
+    margin: 41px 640px;
+}
+.kochenskiopododa{
+    display: flex;
+    flex-direction: column-reverse;
+    padding-top: 41px;
+}
+.kochenskichol{
+    display: flex;
+    padding: 79px 80px;
+    border-radius: 50px;
+    background-color: #eb1616;
+    width: 400px;
+    height: 200px;
+    padding: 45px 50px;
+}
+.kochenskiota{
+    display: flex;
+    background-color: #61ff00;
+    justify-content: center;
+    width: 300px;
+    height: 109px;
+    padding-top: 28px;
+}
+.kochenskibola{
+    color: #000000;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding: 10px 10px;
+}
+.kochenskinevara{
+    color: #000000;
+font-family: Inter;
+font-size: 12px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+}
